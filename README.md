@@ -7,6 +7,9 @@ A gutted Alexa which will use the original speakers to play songs from a specifi
 
 # BOM/NEEDED SUPLLIES
 
+<img width="823" height="349" alt="image" src="https://github.com/user-attachments/assets/d1cc4d27-9215-4575-9f0c-a3f4068cc595" />
+
+
 # BUILD IRL (WIP)
 
 # Credits
