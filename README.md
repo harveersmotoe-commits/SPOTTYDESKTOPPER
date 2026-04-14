@@ -15,6 +15,9 @@ https://cad.onshape.com/documents/a3fc003d8f61dedd5ffaa4e1/w/c8d5df72955df97a079
 
 <img width="823" height="349" alt="image" src="https://github.com/user-attachments/assets/d1cc4d27-9215-4575-9f0c-a3f4068cc595" />
 
+# SCHEMATICS/INTERNALS
+https://wokwi.com/projects/461292451640969217
+
 
 # BUILD IRL (WIP)
 
