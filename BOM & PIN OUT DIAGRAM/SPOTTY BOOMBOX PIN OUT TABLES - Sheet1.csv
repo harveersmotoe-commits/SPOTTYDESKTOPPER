@@ -1,0 +1,23 @@
+,,,,
+,,,,
+,,,,
+,,,EC11 Rotary Encoder,34 -> CLK
+,,,,35 -> DT
+,,,,32 -> SW
+,,,,
+,,,6mm Tactile Button,27
+,,,,GND
+,,,,
+,,,6mm Tactile Button,26
+,,,,GND
+,,,,
+,,,6mm Tactile Button,33
+,,,,GND
+,,,,
+,,,"0,91 OLED DISPLAY",GND
+,,,,3.3V
+,,,,2
+,,,,15
+,,,,
+,,,MAX AUDIO DRIVER,GND
+,,,,5V
