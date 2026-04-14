@@ -5,6 +5,8 @@ WHY?: I just want to make a spotify-reliant boombox project, since it was rumore
 
 CHALLENGES: Some challenges in this project was just finding measurements for the internals of the alexa since before i get the funding I have to make/plan out most things.
 
+NOTE: MOST THINGS IN THIS PROJECT WILL UTILLIZE THE CLAMPS/3D PRINTED ITEMS TO MAKE THE INTERNALS FEEL MORE PUT TOGETHER SINCE I DO NOT WANT TO USE A PCB IN THIS PROJECT TO KEEP COST LOW.
+
 # RENDERS
 https://cad.onshape.com/documents/a3fc003d8f61dedd5ffaa4e1/w/c8d5df72955df97a0790e321/e/238649ec49b07a6451fc6d35?renderMode=0&uiState=69de185b63c966d4fe0b5507
 <img width="985" height="770" alt="image" src="https://github.com/user-attachments/assets/3248d626-15bf-4c46-8e91-23e43877ae0e" />
