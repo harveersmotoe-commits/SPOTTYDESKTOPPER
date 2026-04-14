@@ -2,10 +2,10 @@
 A gutted Alexa which will use the original speakers to play songs from a specific Spotify playlist. Includes a rotary encoder (volume), buttons (play/pause, loop, forward/skip), 0.91 Oled, and a ESP32 WROVER (the brains of the operation). Thanks to Hack Club: Fallout for funding this project.
 
 # RENDERS
-
+https://cad.onshape.com/documents/a3fc003d8f61dedd5ffaa4e1/w/c8d5df72955df97a0790e321/e/238649ec49b07a6451fc6d35?renderMode=0&uiState=69de185b63c966d4fe0b5507
 <img width="985" height="770" alt="image" src="https://github.com/user-attachments/assets/3248d626-15bf-4c46-8e91-23e43877ae0e" />
 
-# BOM/NEEDED SUPLLIES
+# BOM/NEEDED SUPPLIES
 
 <img width="823" height="349" alt="image" src="https://github.com/user-attachments/assets/d1cc4d27-9215-4575-9f0c-a3f4068cc595" />
 
@@ -13,3 +13,5 @@ A gutted Alexa which will use the original speakers to play songs from a specifi
 # BUILD IRL (WIP)
 
 # Credits
+
+Thanks to the Hack Club Fallout Program for sponsoring this project.
