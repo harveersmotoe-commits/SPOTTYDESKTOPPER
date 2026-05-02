@@ -19,6 +19,17 @@ https://cad.onshape.com/documents/a3fc003d8f61dedd5ffaa4e1/w/c8d5df72955df97a079
 
 <img width="652" height="584" alt="image" src="https://github.com/user-attachments/assets/6c82a94d-fa5b-4dd9-b3a4-e93d1dd4b131" />
 
+# How To Build
+This guide is preliminary, meaning that this is a prediction on how this might go, since I have not had this project approved yet.
+
+Disassemble the Amazon Echo Dot 2nd Generation Smart Speaker (Short Version), get rid of the main boards but make sure that you dont lose the top plastic button part of the alexa itself.
+  Those buttons will be used in the final build, though one will be drilled through to make space for the rotary encoders
+  After disassembling be sure to grab your favorite color of spray paint and apply after sanding the plastic enough not to leave deep scratches. (Be sure to take off the buttons if you want a cool two-tone look)
+  Reassemble the shell 
+  Print the button holders, screen jig, and microcontroller jig. 
+  After solidering the need joints print out a wire organizer that was made for this specific build (Not out yet will be designed after assembly and troubleshooting)
+    Solidering pin outs and ins will be added as a table in this README and maybe in an assembly folder. 
+
 # BUILD IRL (WIP)
 
 # Credits
