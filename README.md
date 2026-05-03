@@ -36,6 +36,10 @@ Disassemble the Amazon Echo Dot 2nd Generation Smart Speaker (Short Version), ge
     
     Solidering pin outs and ins will be added as a table in this README and maybe in an assembly folder. 
 
+# Fallout Zine
+
+<img width="419" height="600" alt="image" src="https://github.com/user-attachments/assets/49c61384-db7d-4518-9847-d592ab3de9e4" />
+
 # BUILD IRL (WIP)
 
 # Credits
