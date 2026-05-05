@@ -13,7 +13,8 @@ https://cad.onshape.com/documents/a3fc003d8f61dedd5ffaa4e1/w/c8d5df72955df97a079
 
 # BOM/NEEDED SUPPLIES
 
-<img width="823" height="349" alt="image" src="https://github.com/user-attachments/assets/d1cc4d27-9215-4575-9f0c-a3f4068cc595" />
+<img width="892" height="351" alt="image" src="https://github.com/user-attachments/assets/e62ba7a8-d258-4e0e-831c-a3d3c73ce706" />
+
 
 # SCHEMATICS/INTERNALS
 
