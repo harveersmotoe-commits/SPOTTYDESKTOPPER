@@ -1,5 +1,7 @@
 # SPOTTYDESKTOPPER
-A gutted Alexa which will use the original speakers to play songs from a selection of MP3 files from an SD card, making it a little boombox
+A gutted Alexa which will use the original speakers to play songs from a selection of MP3 files from an SD card, making it a little boombox.
+
+I have noticed that over the years it has felt that alexas have gotten worse and worse, at listening and responding, after the launch of her AI counterparts I decided to throw mine out, BIG MISTAKE by the way. Since now I am making a guide on how to make your boring dumb alexa an mp3 player. 
 
 WHY?: I just want to make a spotify-reliant boombox project, since it was rumored before the spotify car thing, but it never happened, so ill take it inot my own hands.
 
